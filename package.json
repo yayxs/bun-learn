@@ -1,0 +1,6 @@
+{
+  "name": "bun-learn",
+  "workspaces": [
+    "packages/*"
+  ]
+}
